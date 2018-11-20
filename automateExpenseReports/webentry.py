@@ -68,7 +68,7 @@ def execute_expense_report(report_filename=CONFIG_FILE_NAME,
                                                             number_of_parallel_workers)]
 
         for result in result_list:
-            did_not_finish_list.append(result.get())
+            did_not_finish_list.extend(result.get())
 
     print('Did not finish: {}'.format(did_not_finish_list))
 
