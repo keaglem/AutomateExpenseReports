@@ -1,0 +1,12 @@
+{
+    "report_executive_string": "ReportExecutive",
+    "new_report_string": "Expenses",
+    "logon_website": "https://adfs.kellercloud.com/adfs/ls/idpinitiatedsignon.aspx?logintoRP=https://www.certify.com",
+    "wait_time": "4",
+    "user_name": "Beth Keagle",
+    "email_address": "bakeagle@haywardbaker.com",
+    "start_date": "11/2/2018",
+    "end_date": "11/8/2018",
+    "reconciliation_report_location": "C:/Users/matth/OneDrive/Documents/Python Scripts/automateExpenseReports/PCardReconciliationReport (27).xls",
+    "password": ""
+}
